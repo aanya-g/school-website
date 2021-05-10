@@ -57,3 +57,9 @@ input
     z-index:9999;
     top:0;
 }
+.modal-body{
+    text-align:center;
+}
+.img_modal{
+    display:inline-block;
+}
